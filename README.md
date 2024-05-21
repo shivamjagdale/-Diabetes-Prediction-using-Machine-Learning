@@ -5,4 +5,5 @@ Here we will be using Support Vector Machine which falls under Supervised Learni
 Here we are going to train our model with several information such as glucose and insulin levels. 
 
 Workflow for this project will be:- getting the data, standardizing the data, splitting the data then feeding this data to our SVM and then giving new data to SVM and asking it to predict if a patient has diabetes or not. 
+
 If you can't see the file or it shows some type of error, download it to view it.
